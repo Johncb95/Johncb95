@@ -48,6 +48,10 @@ confiable que las áreas usan todos los días para decidir.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?logo=windows&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare%20Tunnel-F38020?logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?logo=odoo&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white)
@@ -58,7 +62,10 @@ confiable que las áreas usan todos los días para decidir.
 
 - **Homelab** — un NAS Synology con servicios en Docker, respaldos cifrados e infraestructura
   como código.
-- **Finanzas personales** — una app propia para organizar el presupuesto por bolsillos.
+- **Finanzas personales** — una app propia para organizar el presupuesto por bolsillos,
+  publicada en mi propio dominio con Cloudflare Tunnel y desplegada con CI/CD en GitHub
+  Actions: pruebas contra PostgreSQL, imágenes en GitHub Container Registry y despliegue
+  automático al NAS.
 
 ### Cómo trabajo
 
