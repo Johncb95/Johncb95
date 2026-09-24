@@ -1,10 +1,10 @@
-### Hola, soy John Cárdenas 👋
+### Hola, soy John Cárdenas
 
 Lidero el equipo de **Innovación y Transformación Digital** en **LINKTIC** (Bogotá, Colombia).
 Convertimos los datos dispersos de la empresa —ERPs, hojas de cálculo, APIs— en información
 confiable que las áreas usan todos los días para decidir.
 
-#### 🧭 En qué trabajo
+### En qué trabajo
 
 - **Plataforma de datos corporativa** — más de 80 pipelines ETL en Python que alimentan un
   data warehouse en PostgreSQL para 13 áreas del negocio: finanzas, talento humano, compras,
@@ -20,7 +20,7 @@ confiable que las áreas usan todos los días para decidir.
   lleva a todo el equipo las mismas convenciones y un catálogo de auditoría de seguridad
   previo a cada PR.
 
-#### 🚀 2026 en resumen
+### 2026 en resumen
 
 - **Data warehouse 3.0** — migración completa a la nueva generación en PostgreSQL, con roles
   de acceso por perfil, monitoreo de bloqueos y consultas lentas, y respaldos diarios.
@@ -39,7 +39,7 @@ confiable que las áreas usan todos los días para decidir.
   tableros y un catálogo de auditoría previo a cada PR.
 - **Correo transaccional unificado** para todas las notificaciones de los procesos de datos.
 
-#### 🛠️ Stack
+### Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
@@ -54,13 +54,13 @@ confiable que las áreas usan todos los días para decidir.
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white)
 
-#### 🏠 Fuera del trabajo
+### Fuera del trabajo
 
 - **Homelab** — un NAS Synology con servicios en Docker, respaldos cifrados e infraestructura
   como código.
 - **Finanzas personales** — una app propia para organizar el presupuesto por bolsillos.
 
-#### 💡 Cómo trabajo
+### Cómo trabajo
 
 > Un tablero en verde no prueba nada si no sabes qué debería mostrar.
 > Medir antes de optimizar, y documentar donde vive el código.
