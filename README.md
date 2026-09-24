@@ -20,6 +20,25 @@ confiable que las áreas usan todos los días para decidir.
   lleva a todo el equipo las mismas convenciones y un catálogo de auditoría de seguridad
   previo a cada PR.
 
+#### 🚀 2026 en resumen
+
+- **Data warehouse 3.0** — migración completa a la nueva generación en PostgreSQL, con roles
+  de acceso por perfil, monitoreo de bloqueos y consultas lentas, y respaldos diarios.
+- **100 % del data warehouse documentado** — cada tabla, vista y columna con su descripción
+  en la propia base, auditada objeto por objeto.
+- **De 10 a 13 áreas con datos propios** — nuevas líneas de datos para soporte, innovación y
+  planeación.
+- **Mesa de ayuda con modelo dimensional** — dos relojes de OLA (calendario y horas hábiles)
+  y cambios de jornada laboral versionados, más asignación automática de tickets validada con IA.
+- **Reclutamiento de las uniones temporales** — módulo en producción que mide cada etapa del
+  proceso en horas hábiles.
+- **Flujo de caja proyectado a 12 semanas** para tesorería, corriendo a diario.
+- **Hub de identidad** — un maestro único de personas que cruza las tres compañías del grupo
+  con reglas de calidad que evitan fusiones falsas.
+- **Seguridad de la flota** — conexiones cifradas con verificación de identidad en los 12
+  tableros y un catálogo de auditoría previo a cada PR.
+- **Correo transaccional unificado** para todas las notificaciones de los procesos de datos.
+
 #### 🛠️ Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
