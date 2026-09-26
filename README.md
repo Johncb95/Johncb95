@@ -14,8 +14,8 @@ confiable que las áreas usan todos los días para decidir.
 - **Mesa de ayuda inteligente** — medición de acuerdos de nivel de operación (OLA) con horario
   hábil, alertas automáticas y asignación automática de tickets, con un piloto de clasificación
   asistida por IA.
-- **Migraciones** — de flujos low-code (n8n) a Python mantenible, y del data warehouse a su
-  tercera generación sin perder historia.
+- **Migraciones** — de flujos de automatización que construí en n8n a pipelines en Python
+  cuando el volumen lo pidió, y del data warehouse a su tercera generación sin perder historia.
 - **IA en el equipo de desarrollo** — un marketplace interno de *skills* para Claude Code que
   lleva a todo el equipo las mismas convenciones y un catálogo de auditoría de seguridad
   previo a cada PR.
@@ -47,6 +47,7 @@ confiable que las áreas usan todos los días para decidir.
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
 
 **Desarrollo web:**
 
