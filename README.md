@@ -47,6 +47,9 @@ confiable que las áreas usan todos los días para decidir.
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+
+**Automatización:**
+
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
 
 **Desarrollo web:**
