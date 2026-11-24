@@ -90,6 +90,8 @@ confiable que las áreas usan todos los días para decidir.
 **IA:**
 
 ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?logo=google&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000)
 ![MCP](https://img.shields.io/badge/MCP-000000?logo=modelcontextprotocol&logoColor=white)
 
 ### Fuera del trabajo
